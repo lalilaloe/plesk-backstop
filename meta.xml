@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>plesk-backstop</id>
+  <name>Backstopjs visual regression testing</name>
+  <description>Automates visual regression testing</description>
+  <version>1.0</version>
+  <release>1</release>
+  <vendor/>
+  <url>http://backstopjs.org</url>
+  <plesk_min_version>18.0.29</plesk_min_version>
+</module>

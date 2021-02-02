@@ -5,7 +5,10 @@
   <description>Automates visual regression testing</description>
   <version>1.0</version>
   <release>1</release>
-  <vendor/>
+  <category>server_tool</category>
+  <category>web_app</category>
+  <category>monitoring</category>
+  <vendor>lalilaloe</vendor>
   <url>http://backstopjs.org</url>
-  <plesk_min_version>18.0.29</plesk_min_version>
+  <plesk_min_version>17.8.11</plesk_min_version>
 </module>
